@@ -1,3 +1,7 @@
-# h-m-scraped
-I scraped h&amp;m sales, which wasn't quite complex. You can use my code to scrape other websites which have product details. 
-I used Selenium for this, you can use Beautiful Soup too, if you want. 
+# Scraping with Selenium
+
+Selenium is an easy to use package. Glad Baiju Muthukadan came up with this package, as it helps in a lot of ways. 
+
+## What was the assignment?
+
+The assignment was about scraping h&m sale. Not the best assignment to use the package, but it gave an idea of how Selenium can be used. 
